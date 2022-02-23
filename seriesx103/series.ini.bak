@@ -1,0 +1,14 @@
+[SERIES]
+CODE=PRIVATEER
+NAME=Privateer Racing
+DESCRIPTION=A vast selection of events for newcomers to organized racing. Bring your car or rent one: the most accessible way to excitement!<br><br>Each event grants you a special "signature" by just competing in it. Get enough signatures and you will be eligible for a Regional License (B). 
+REQUIRESANY=
+POINTS=0
+MODEL=
+
+[GOALS] 
+POINTS=0 ; points or ranking (for championships), amount of tiered events minimum (for single event series)
+RANKING=0
+TIER1=6
+TIER2=0
+TIER3=0

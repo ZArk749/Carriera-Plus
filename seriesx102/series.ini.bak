@@ -1,0 +1,14 @@
+[SERIES]
+CODE=KART
+NAME=2012 Trofeo Kart Italia
+DESCRIPTION=Hi, my name is Giada De Zen. I noticed you at Aosta, you look talented. I need a new driver for 2013's Formula Abarth championship, and I want to give you a chance.<br>I will reccomend you to a friend of mine, who owns a small Karting team. If you can win the Trofeo Kart Italia this year, I will offer you the seat at Cram Motorsport.<br><br>The Trofeo Kart Italia (TKI) is an indipendently organized tournament held in Italy.<br><br>RACE FORMAT:<br>Q: 15 mins, Race: ~15 mins<br><br>POINTS ASSIGNMENT:<br>10,8,5,1 
+REQUIRES=seriesx101
+REQUIRESANY=
+POINTS=10,8,5,1
+MODEL=shifter_kart
+
+[GOALS] 
+RANKING=1
+TIER1=0
+TIER2=0
+TIER3=0
