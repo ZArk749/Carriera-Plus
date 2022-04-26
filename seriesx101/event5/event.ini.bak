@@ -1,10 +1,10 @@
 [EVENT]
-NAME=Basics: high speed cornering
-DESCRIPTION=In this test we completely skip turn 1 and 2 to test you out on a sequence of fast, differently angled corners. Weight transfer was important in the last test, but now you will understand how it affects the car dynamics when you are not braking. We expect you to do faster than your last test.<br><br>Leo's tip:<br>High speed does not mean same speed. Pay attention to how much throttle you can apply for each part of the corners sequence, and keep in mind that there's still a straight afterwards.<br><br>NOTE: medal requirements are expressed in milliseconds.
+NAME=Basics: full lap
+DESCRIPTION=You know the car now you are finally ready to have a full lap around the most common configuration, the Grand Sport layout. We ask you to get some decent timings and then come back to the pits.<br><br>Leo's tip:<br>In a way or another, you faced all the corners of the layout before, so don't panic!<br><br>NOTE: medal requirements are expressed in milliseconds.
 
 [RACE]
 TRACK=aosta
-CONFIG_TRACK=semi_oval
+CONFIG_TRACK=grand_sport
 MODEL=alfa_romeo_giulietta_qv
 CARS=1
 PENALTIES=1
@@ -31,7 +31,7 @@ FILE=
 ENABLED=0
 
 [LIGHTING]
-SUN_ANGLE=-32.00
+SUN_ANGLE=-16.00
 TIME_MULT=1.0
 CLOUD_SPEED=0.200
 __TRACK_GEOTAG_LONG=7.19
@@ -43,15 +43,15 @@ __TRACK_TIMEZONE_OFFSET=7200
 
 [GROOVE]
 VIRTUAL_LAPS=10
-MAX_LAPS=1
-STARTING_LAPS=1
+MAX_LAPS=30
+STARTING_LAPS=0
 
 [TEMPERATURE]
-AMBIENT=26
-ROAD=29
+AMBIENT=27
+ROAD=30
 
 [WEATHER]
-NAME=sol_02_few_clouds
+NAME=sol_04_windy
 
 [DYNAMIC_TRACK]
 LAP_GAIN=1
@@ -60,7 +60,7 @@ SESSION_START=100
 SESSION_TRANSFER=100
 
 [LAP_INVALIDATOR]
-ALLOWED_TYRES_OUT=-1
+ALLOWED_TYRES_OUT=1
 
 [WIND]
 SPEED_KMH_MIN=0
@@ -68,19 +68,19 @@ SPEED_KMH_MAX=0
 DIRECTION_DEG=248
 
 [SESSION_0]
-NAME=Test 3
+NAME=Test 5
 TYPE=1
 DURATION_MINUTES=0
 SPAWN_SET=PIT
 
 [CONDITION_0]
 TYPE=TIME
-OBJECTIVE=57500
+OBJECTIVE=114500
 
 [CONDITION_1]
 TYPE=TIME
-OBJECTIVE=56300
+OBJECTIVE=113000
 
 [CONDITION_2]
 TYPE=TIME
-OBJECTIVE=56000
+OBJECTIVE=112500

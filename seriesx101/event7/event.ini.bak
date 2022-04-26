@@ -1,6 +1,6 @@
 [EVENT]
-NAME=Oversteer correction
-DESCRIPTION=Remember how we told you to exercise oversteer? Now we ask you to prove to us you can keep control of a rear wheel drive vehicle in each situation. Show us some smoke.<br><br>Leo's tip:<br>There's no drift competition here, alright? If you feel nervous, gentle oversteering does the job as well. Also, avoid sloping curves if you are not keen to drifting.
+NAME=Advanced: Oversteer correction
+DESCRIPTION=Remember how we told you to exercise oversteer? We heavily sprayed the track with water, and we need you to prove you can keep control of a rear wheel drive vehicle in each situation. Show us some smoke.<br><br>Leo's tip:<br>There's no drift competition here, alright? If you feel nervous, gentle oversteering does the job as well. Also, avoid sloping curves if you are not keen to drifting.
 
 [RACE]
 TRACK=aosta
@@ -31,7 +31,7 @@ FILE=
 ENABLED=0
 
 [LIGHTING]
-SUN_ANGLE=-32.00
+SUN_ANGLE=0.00
 TIME_MULT=1.0
 CLOUD_SPEED=0.200
 __TRACK_GEOTAG_LONG=7.19
@@ -72,7 +72,7 @@ SPEED_KMH_MAX=11.1
 DIRECTION_DEG=248
 
 [SESSION_0]
-NAME=Test 3
+NAME=Test 7
 TYPE=6
 DURATION_MINUTES=0
 SPAWN_SET=START
