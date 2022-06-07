@@ -1,6 +1,6 @@
 [EVENT]
 NAME=Advanced: lightweight mid-engine
-DESCRIPTION=We raise the difficulty again by hopping in a KTM X-BOW, closing in into racecar territory. The X-BOW is a lightweight track-toy but more importantly is mid-engined, meaning very agile but harder to control when grip is lost. You will sustain your final exam in this car, but first you need to learn what to expect from a similar vehicle.<br><br>Leo's tip:<br>The car's suspensions are harder compared to what you have driven before, watch out for high kerbs. In fact, you must be quite precise with, as mid-rear cars spin easier than they make you think.
+DESCRIPTION=We raise the difficulty again by hopping in a KTM X-BOW, closing in into racecar territory. The X-BOW is a lightweight track-toy but more importantly is mid-engined, meaning very agile but harder to control when grip is lost. You will sustain your final exam in this car, but first you need to learn what to expect from a similar vehicle.<br><br>Leo's tip:<br>The car's suspensions are harder compared to what you have driven before, watch out for high kerbs. In fact, you must be quite precise: mid-rear cars spin easier than they make you think.
 
 [RACE]
 TRACK=aosta
@@ -42,8 +42,6 @@ __TRACK_TIMEZONE_OFFSET=3600
 __TRACK_GEOTAG_LAT=45.44
 __CM_DATE=1641385568.58262
 
-
-
 [GROOVE]
 VIRTUAL_LAPS=10
 MAX_LAPS=1
@@ -73,9 +71,9 @@ DIRECTION_DEG=248
 
 [SESSION_0]
 NAME=Test 8
-TYPE=6
+TYPE=1
 DURATION_MINUTES=0
-SPAWN_SET=START
+SPAWN_SET=PIT
 
 [CONDITION_0]
 TYPE=TIME

@@ -1,6 +1,6 @@
 [EVENT]
 NAME=Graduation Test
-DESCRIPTION=You made it! This is the final step in order to obtain your Race Driver License!<br><br>This exams aims to see your behaviour in an everyday trackday scenario. That's why the test takes place when the track is open.<br>Anyway, the goal is to be a fast driver without endangering the others around you. You have ten minutes to set a decent lap, working your way through traffic. <br><br>Leo's tip:<br>The time you are asked to set is relatively easy, so don't be aggressive, it would be counterproductive. Each second on the grass is a second less you can use to set your time. That's what you would do in a real life scenario, after all!<br><br>NOTE: medal requirements are expressed in milliseconds.
+DESCRIPTION=You made it! This is the final step in order to obtain your Race Driver License!<br><br>This exam aims to see your behaviour in an everyday trackday scenario. That's why the test takes place when the track is open.<br>Anyway, the goal is to be a fast driver without endangering the others around you. You have ten minutes to set a decent lap, working your way through traffic. <br><br>Leo's tip:<br>The time you are asked to set is relatively easy, so don't be aggressive, it would be counterproductive. Each second on the grass is a second less you can use to set your time. That's what you would do in a real life scenario, after all!<br><br>NOTE: medal requirements are expressed in milliseconds.
 [RACE]
 TRACK=aosta
 TRACK=aosta
@@ -83,7 +83,7 @@ NATIONALITY=France
 
 [CAR_4]
 MODEL=ktm_xbow_r
-SKIN=14_isotope_green_11
+SKIN=07_dark_grey_09
 SETUP=
 MODEL_CONFIG=
 AI_LEVEL=88
@@ -194,13 +194,13 @@ NATION_CODE=ITA
 NATIONALITY=Italy
 
 [CONDITION_0]
-TYPE=TIME   ; TIME / POINTS
-OBJECTIVE=107000 ; time in milliseconds
+TYPE=TIME
+OBJECTIVE=100000
 
 [CONDITION_1]
-TYPE=TIME  ; TIME / POINTS
-OBJECTIVE=106000 ; time in milliseconds
+TYPE=TIME
+OBJECTIVE=96500
 
 [CONDITION_2]
-TYPE=TIME   ; TIME / POINTS
-OBJECTIVE=105500 ; time in milliseconds
+TYPE=TIME
+OBJECTIVE=95500
