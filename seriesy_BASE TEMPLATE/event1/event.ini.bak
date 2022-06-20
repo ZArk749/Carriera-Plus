@@ -1,0 +1,116 @@
+[EVENT]
+NAME=Tutorial
+DESCRIPTION=Event tutorial
+;These two are shown when you click on the specific event
+
+[RACE]
+TRACK=imola
+CONFIG_TRACK=
+MODEL=tatuusfa1
+CARS=20
+PENALTIES=1
+FIXED_SETUP=0
+MODEL_CONFIG=
+SKIN=scheme_0
+AI_LEVEL=100
+DRIFT_MODE=0
+RACE_LAPS=10
+JUMP_START_PENALTY=2
+
+[CAR_0]
+SETUP=
+SKIN=scheme_0
+MODEL=-
+MODEL_CONFIG=
+
+[GHOST_CAR]
+; ignore
+
+[LIGHTING]
+SUN_ANGLE=48.00
+TIME_MULT=1.0
+CLOUD_SPEED=0.200
+__TRACK_GEOTAG_LONG=11.71248
+__TRACK_TIMEZONE_BASE_OFFSET=3600
+__TRACK_TIMEZONE_DTS=1
+__CM_WEATHER_TYPE=-1
+__TRACK_TIMEZONE_OFFSET=7200
+__TRACK_GEOTAG_LAT=44.361229
+
+[GROOVE]
+VIRTUAL_LAPS=10
+MAX_LAPS=30
+STARTING_LAPS=0
+
+[TEMPERATURE]
+AMBIENT=18
+ROAD=25
+
+[WEATHER]
+NAME=sol_01_clear
+
+[DYNAMIC_TRACK]
+PRESET=2
+;WARNING: Career events DO NOT use the same convention for track conditions.
+;Unfortunately, you need to stick to the default presets:
+;0 = dusty; 1 = old; 2 = green; 3 = slow; 4 = fast; 5 = optimum
+
+[LAP_INVALIDATOR]
+ALLOWED_TYRES_OUT=-1 
+;Number of tyres needed to invalidate a lap timing. It does not
+;affect racing, only practice and quali. CM sets this to -1 and 
+;it sticks to the classic "two tyres on white line" rule.
+
+[WIND]
+SPEED_KMH_MIN=27
+SPEED_KMH_MAX=27
+DIRECTION_DEG=158
+
+[OPTIONS]
+USE_MPH=0
+
+[BENCHMARK]
+ACTIVE=0
+
+[REPLAY]
+ACTIVE=0
+FILENAME=
+
+[REMOTE]
+ACTIVE=0
+;server stuff, ignore
+
+[RESTART]
+ACTIVE=0
+;ignore
+
+[SESSION_0]
+NAME=Practice
+DURATION_MINUTES=30
+SPAWN_SET=PIT
+TYPE=1
+
+[SESSION_1]
+NAME=Qualifying
+DURATION_MINUTES=15
+SPAWN_SET=PIT
+TYPE=2
+
+[SESSION_2]
+NAME=Race
+DURATION_MINUTES=0
+SPAWN_SET=START
+TYPE=3
+LAPS=10
+
+[CONDITION_0]
+TYPE=POSITION	;TIME/POSITION/POINTS
+OBJECTIVE=1;milliseconds/# position/drift points
+
+[CONDITION_1]
+TYPE=POSITION
+OBJECTIVE=2
+
+[CONDITION_2]
+TYPE=POSITION
+OBJECTIVE=3
