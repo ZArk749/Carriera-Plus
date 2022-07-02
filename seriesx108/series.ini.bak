@@ -1,0 +1,11 @@
+[SERIES]
+CODE=BTCC
+NAME=2014 Dunlop MSA BTCC
+DESCRIPTION=Good morning! I'm Jake Hill and I represent TradePriceCars.com. This year we will enter the BTCC as newcomers with our Audi RS3. We saw you racing at the Clio Cup last year, and we'd like you to join us for 2014.<br><br>The British Touring Car Championship is one of the most illustrous motor racing championships in the world, not only in the UK. This competition is ran with heavily modified road cars, carefully balanced for close racing.<br><br>Even though its our first year we have the car and resources for a first place. Do we also have the driver?<br><br>RACE FORMAT:<br>FP: 30 mins, Q: 30 mins, Race: ~30 mins<br><br>POINTS ASSIGNMENT:<br>25,18,15,12,10,8,6,4,2,1
+
+REQUIRES=seriesx104
+REQUIRESANY=0
+POINTS=25,18,15,12,10,8,6,4,2,1
+
+[GOALS]
+RANKING=1;

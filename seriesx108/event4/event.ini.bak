@@ -1,16 +1,16 @@
 [EVENT]
-NAME=Round 10 - Brands Hatch 10/12/14
-DESCRIPTION=We end the season by coming back to brands hatch. The sky is clear but you may struggle with temperatures. Let's make sure we end up the season with a bang! 
+NAME=Round 4 - Oulton Park 06/08/14
+DESCRIPTION=High speed cornering is key here: Set up your car lateral grip-wise. Also, fuel calculations may be tricky: make sure you practice race pace.
 
 [RACE]
-TRACK=ks_brands_hatch
-CONFIG_TRACK=gp
-MODEL=btcc_toyota_avensis
-CARS=18
+TRACK=oulton_park
+CONFIG_TRACK=international
+MODEL=btcc_audi_rs3
+CARS=17
 PENALTIES=1
 FIXED_SETUP=0
 MODEL_CONFIG=
-SKIN=2013_jackson_48
+SKIN=2019_jake_hill
 AI_LEVEL=100
 DRIFT_MODE=0
 RACE_LAPS=16
@@ -18,7 +18,7 @@ JUMP_START_PENALTY=2
 
 [CAR_0]
 SETUP=
-SKIN=2013_jackson_48
+SKIN=2019_jake_hill
 MODEL=-
 MODEL_CONFIG=
 
@@ -35,13 +35,13 @@ ENABLED=0
 SUN_ANGLE=-39.91
 TIME_MULT=1.0
 CLOUD_SPEED=0.200
-__TRACK_GEOTAG_LONG=0.27511
+__TRACK_GEOTAG_LONG=-2.6147
 __TRACK_TIMEZONE_BASE_OFFSET=0
 __TRACK_TIMEZONE_DTS=1
 __CM_WEATHER_TYPE=-1
-__TRACK_GEOTAG_LAT=51.367222
+__TRACK_GEOTAG_LAT=53.1072
 __TRACK_TIMEZONE_OFFSET=3600
-__CM_DATE=1413072000
+__CM_DATE=1402185600
 
 [GROOVE]
 VIRTUAL_LAPS=10
@@ -49,8 +49,8 @@ MAX_LAPS=30
 STARTING_LAPS=0
 
 [TEMPERATURE]
-AMBIENT=13
-ROAD=17
+AMBIENT=20
+ROAD=27
 
 [WEATHER]
 NAME=sol_02_few_clouds
@@ -63,12 +63,12 @@ SESSION_TRANSFER=90
 PRESET=3
 
 [LAP_INVALIDATOR]
-ALLOWED_TYRES_OUT=-1
+ALLOWED_TYRES_OUT=2
 
 [WIND]
-SPEED_KMH_MIN=6
-SPEED_KMH_MAX=6
-DIRECTION_DEG=270
+SPEED_KMH_MIN=21
+SPEED_KMH_MAX=21
+DIRECTION_DEG=158
 
 [REPLAY]
 FILENAME=

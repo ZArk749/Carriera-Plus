@@ -1,6 +1,6 @@
 [EVENT]
 NAME=Basics: acclimatizing to high speeds
-DESCRIPTION=Meet the beautiful Alfa Romeo Giulietta QV. It's a front wheel drive hot hatchback with a good amount of power, perfect to learn car dynamics safely.<br><br>In this first assignment, we ask you to drive around the oval configuration as fast as you can. This is a useful excercise in order to get to know the limits of the car without putting yourself in danger. Our target time is approximately 54 seconds.<br><br>Leo's tip:<br>Make no mistake: each of the four corners needs a different approach. Dose your gas according to the road slope, or if there's an upcoming straight etc. Come for a tyre change whenever you need.<br><br>NOTE: medal requirements are expressed in milliseconds.
+DESCRIPTION=Meet the beautiful Alfa Romeo Giulietta QV. It's a front wheel drive hot hatchback with a good amount of power, perfect to learn car dynamics safely.<br><br>In this first assignment, we ask you to drive around the oval configuration as fast as you can. This is a useful excercise in order to get to know the limits of the car without putting yourself in danger. Our target time is approximately 55 seconds.<br><br>Leo's tip:<br>Each of the four turns is different: your gas/steering combination should depend on road slope, entry speed, or if there's an upcoming straight etc. Your leftmost tires will overheat quickly. Do cooldown laps, and come for a tyre change whenever you need to.<br><br>NOTE: medal requirements are expressed in milliseconds.
 
 [RACE]
 TRACK=aosta
@@ -8,7 +8,7 @@ CONFIG_TRACK=oval
 MODEL=alfa_romeo_giulietta_qv
 CARS=1
 PENALTIES=1
-FIXED_SETUP=0
+FIXED_SETUP=1
 MODEL_CONFIG=
 SKIN=0_rosso_alfa
 AI_LEVEL=100
@@ -91,11 +91,11 @@ SPAWN_SET=PIT
 
 [CONDITION_0]
 TYPE=TIME
-OBJECTIVE=55000
+OBJECTIVE=56000
 
 [CONDITION_1]
 TYPE=TIME
-OBJECTIVE=54000
+OBJECTIVE=55000
 
 [CONDITION_2]
 TYPE=TIME

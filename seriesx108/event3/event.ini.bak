@@ -1,10 +1,10 @@
 [EVENT]
-NAME=Round 10 - Brands Hatch 10/12/14
-DESCRIPTION=We end the season by coming back to brands hatch. The sky is clear but you may struggle with temperatures. Let's make sure we end up the season with a bang! 
+NAME=Round 3 - Thruxton 05/05/14
+DESCRIPTION=It's still cold this week, but you won't be much affected as the fast corners will heat up your tires pretty quickly. Will you lift your foot?
 
 [RACE]
-TRACK=ks_brands_hatch
-CONFIG_TRACK=gp
+TRACK=js_thruxton
+CONFIG_TRACK=
 MODEL=btcc_toyota_avensis
 CARS=18
 PENALTIES=1
@@ -18,7 +18,7 @@ JUMP_START_PENALTY=2
 
 [CAR_0]
 SETUP=
-SKIN=2013_jackson_48
+SKIN=2019_jake_hill
 MODEL=-
 MODEL_CONFIG=
 
@@ -32,16 +32,16 @@ FILE=
 ENABLED=0
 
 [LIGHTING]
-SUN_ANGLE=-39.91
+SUN_ANGLE=-7.76
 TIME_MULT=1.0
 CLOUD_SPEED=0.200
-__TRACK_GEOTAG_LONG=0.27511
+__TRACK_GEOTAG_LONG=-1.61611111111111
 __TRACK_TIMEZONE_BASE_OFFSET=0
 __TRACK_TIMEZONE_DTS=1
 __CM_WEATHER_TYPE=-1
-__TRACK_GEOTAG_LAT=51.367222
 __TRACK_TIMEZONE_OFFSET=3600
-__CM_DATE=1413072000
+__TRACK_GEOTAG_LAT=51.2269444444444
+__CM_DATE=1397952000
 
 [GROOVE]
 VIRTUAL_LAPS=10
@@ -50,7 +50,7 @@ STARTING_LAPS=0
 
 [TEMPERATURE]
 AMBIENT=13
-ROAD=17
+ROAD=18
 
 [WEATHER]
 NAME=sol_02_few_clouds
@@ -66,10 +66,9 @@ PRESET=3
 ALLOWED_TYRES_OUT=-1
 
 [WIND]
-SPEED_KMH_MIN=6
-SPEED_KMH_MAX=6
-DIRECTION_DEG=270
-
+SPEED_KMH_MIN=15
+SPEED_KMH_MAX=15
+DIRECTION_DEG=180
 [REPLAY]
 FILENAME=
 ACTIVE=0
