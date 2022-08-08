@@ -1,6 +1,6 @@
 [EVENT]
 NAME=Round 1 - Vallelunga 4/28/13
-DESCRIPTION=This weekend you'll have two tricky tasks. You'll need to acclimatize to the car, as this is your first drive. After that, mastering Vallelunga will be a challenge on its own: lots of overtaking possibilities, and you may find late braking more than useful in some slower parts of the track.<br><br>We expect the default setup to be good to go. If you are slow through the first sector you may consider lowering your downforce, but that will strongly limp your cornering as well as your consistency.<br><br>We expect some strong tyre wear for the race, but using hards is not a feasible option in terms of laptimes. Saving the tires during the first part of the race may prove useful.
+DESCRIPTION=This weekend you'll have two tricky tasks. You'll need to acclimatize to the car, as this is your first drive. After that, mastering Vallelunga will be a challenge on its own: lots of overtaking possibilities, and you may find late braking more than useful in some slower parts of the track.<br><br>We expect the default setup to be good to go. If you are slow through the first sector you may consider lowering your downforce, but that will strongly limp your cornering as well as your consistency.<br><br>We expect some strong tyre wear, but using hards for the race is not a competitive option. Saving the tires during the first part of the race may prove useful.
 
 [RACE]
 TRACK=ks_vallelunga

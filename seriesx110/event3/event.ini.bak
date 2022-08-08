@@ -1,6 +1,6 @@
 [EVENT]
 NAME=Round 3 - Adria 5/26/13
-DESCRIPTION=DESCRIPTION
+DESCRIPTION=Adria is pretty bumpy. Getting stability on the straights is the key to have a good corner entry throughout the mid-speed bends. Once again, late braking may prove useful to reach top speed.<br><br>Despite the straights, downforce will help you gain traction on the coarse asphalt. Ride height and spring softening will let you use some of the kerbs to take a wider line, let alone stabilizing the whole ride.<br><br>We predict your tires will run at sub-optimal temperatures during the race, but you won't lose much performance as they wear out. All and all is a good thing, as there aren't many passing spots and you'll need to put pressure on the drivers ahead in order to pass.
 
 [RACE]
 TRACK=aa_adriaraceway
@@ -14,7 +14,7 @@ SKIN=scheme_4
 AI_LEVEL=100
 DRIFT_MODE=0
 RACE_LAPS=20
-JUMP_START_PENALTY=0
+JUMP_START_PENALTY=2
 
 [CAR_0]
 SETUP=

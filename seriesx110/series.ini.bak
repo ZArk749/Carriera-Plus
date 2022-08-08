@@ -8,5 +8,5 @@ POINTS=20,15,12,10,8,5,4,3,2,1
 
 [GOALS]
 RANKING=1
-POINTS=60
+;POINTS=60
 ; pick one of the above

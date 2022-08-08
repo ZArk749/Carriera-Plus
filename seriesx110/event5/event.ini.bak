@@ -1,6 +1,6 @@
 [EVENT]
 NAME=Round 5 - Mugello 7/14/13
-DESCRIPTION=DESCRIPTION
+DESCRIPTION=The Mugello Circuit is one of the most difficult tracks of the season, but I'm sure you will fall in love with it. To be competitive, you will need to sacrifice most corner entries, hold the gas mid-corner and then go flat out as soon as the turning circle allows you to do so. This is particularly true on the two Arrabbiata corners, as well as the various chicanes.<br><br>The long and sloped straight will demand as much speed as possible, but you will need a good amount of downforce to tackle the long and fast bends. You can gain top speed by lowering the car down and increasing spring stiffness, but be careful: the already unforgiving kerbs will get even uglier.<br><br>Due to the summer temperatures and the elevation changes of the track, both fuel consumption and tire wear will get in your way. Study some alternative racing lines: one to use with a heavy car, and another one to stress the tires less. We don't think the other teams will run on hards.
 
 [RACE]
 TRACK=mugello
@@ -18,7 +18,7 @@ JUMP_START_PENALTY=2
 
 [CAR_0]
 SETUP=
-SKIN=scheme_4
+SKIN=scheme_1
 MODEL=-
 MODEL_CONFIG=
 
