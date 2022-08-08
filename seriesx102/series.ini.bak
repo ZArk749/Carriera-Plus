@@ -1,7 +1,7 @@
 [SERIES]
 CODE=KART
-NAME=2012 Trofeo Kart Italia
-DESCRIPTION=Hi, my name is Marco Braghero and I represent Torino Motorsport. The team is planning to enter next year's Formula Abarth championship, and you seemed pretty confident at Aosta.<br>I can't offer you a seat this year but I will introduce you to a small Karting team. If you can win the Trofeo Kart Italia, I will offer you the seat for next year.<br><br>The Trofeo Kart Italia (TKI) is an indipendent Italian competition that has grown a lot in recent years, and now hosts events all over europe. Since it's not held by a major organization, drivers from different countries can participate without the need of a regional license..<br><br>RACE FORMAT:<br>Q: 15 mins, Race: ~15 mins<br><br>POINTS ASSIGNMENT:<br>10,8,5,1 
+NAME=2012 MAD Formula Cup
+DESCRIPTION=My name is Marco Braghero and I represent Torino Motorsport. We are planning to enter next year's Formula Abarth championship, and I noticed you at Aosta.<br>I will introduce you the MAD Formula Cup: if you can win, I will offer you the seat for next year.<br><br>The MAD Formula Cup is an indipendent competition that uses lightweight prototypes engineered by university students used for Formula SAE. This spin-off series now hosts events all over europe and since it's not held by a major organization, young talents can participate without the need of a regional license.<br><br>RACE FORMAT:<br>Q: 15 mins, Race: ~15 mins<br><br>POINTS ASSIGNMENT:<br>10,8,5,1 
 REQUIRES=seriesx101
 REQUIRESANY=
 POINTS=10,8,5,1

@@ -19,6 +19,10 @@
 - AI always runs w/tyre blankets
 - AI is affected by track conditions, but you may want to lower it, say, if you want to make rookie drivers scared of rain
 
+--- AC LIMITATIONS ---
+- skipping practice/quali won't make the time to pass
+-
+
 --- GOOD ADVICE ---
 - Desired workflow: ideation, quick drive presets, testing, implementation, user testing, deployement
 - https://github.com/archibaldmilton/Girellu/wiki/List-of-Assetto-Mods

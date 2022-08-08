@@ -1,6 +1,6 @@
 [EVENT]
 NAME=Graduation Test
-DESCRIPTION=You made it! This is the final step in order to obtain your Race Driver License!<br><br>This exam aims to check your behaviour in an everyday trackday scenario. That's why the test takes place when the track is open.<br>The goal is to be a fast driver without endangering the others around you. You have ten minutes to set a decent lap, working your way through traffic. <br><br>Leo's tip:<br>The time you are asked to set is relatively easy, so don't be aggressive, it would be counterproductive. Each second on the grass is a second less you can use to set your time. That's what you would do in a real life scenario, after all!<br><br>NOTE: medal requirements are expressed in milliseconds.
+DESCRIPTION=You made it! This is the final step in order to obtain your Race Driver License!<br><br>This exam aims to check your behaviour in a plausible scenario. That's why the test takes place when the track is open: the  layout is different, preventing the examinee to develop automatisms, and cars go at different speeds and confidence levels.<br>The goal is to be a fast driver without endangering you and the others around you. You have five minutes to set a clean lap, working your way through traffic. <br><br>Leo's tip:<br>You will basically have one shot, but the time you are asked to set is easy: we need to know if you are a safe driver, not a fast one.<br><br>NOTE: medal requirements are expressed in milliseconds.
 [RACE]
 TRACK=aosta
 CONFIG_TRACK=sport
@@ -212,19 +212,19 @@ NATIONALITY=Italy
 
 [SESSION_0]
 NAME=Exam
-DURATION_MINUTES=10
+DURATION_MINUTES=5
 SPAWN_SET=PIT
 TYPE=2
 __SPEED_LIMIT=0
 
 [CONDITION_0]
 TYPE=TIME
-OBJECTIVE=100000
+OBJECTIVE=850000
 
 [CONDITION_1]
 TYPE=TIME
-OBJECTIVE=86500
+OBJECTIVE=83500
 
 [CONDITION_2]
 TYPE=TIME
-OBJECTIVE=85500
+OBJECTIVE=81500

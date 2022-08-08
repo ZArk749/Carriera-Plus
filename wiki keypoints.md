@@ -18,6 +18,8 @@
 
 - AI always runs w/tyre blankets
 - AI is affected by track conditions, but you may want to lower it, say, if you want to make rookie drivers scared of rain
+- AI suffers from tyre wear, but it doesn't affect how often they fuck up. Plus, they won't pit just to change tires.
+- AI only pits to fill up gas, but when they do they also change tires(still default ones?).
 
 --- AC LIMITATIONS ---
 - skipping practice/quali won't make the time to pass
