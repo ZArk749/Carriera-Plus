@@ -1,8 +1,9 @@
 [EVENT]
-NAME=Cronoscalata Trento-Bondone
-DESCRIPTION=bumpy af, and there are two jumps as well. High dampers and long travel range otherwise you will die.<br><br>CLASS LEADERBOARD:<br><br>1st: 5:37:223<br>Median:  5:39:459<br>75%: 5:41:249
+NAME=Cesana Sestriere
+DESCRIPTION=CLASS LEADERBOARD:<br>1st: 5:37:223<br>Median:  5:39:459<br>75%: 5:41:249<br><br>The road from Cesana Torinese to Sestriere is pretty rough. Blind fast corners and the bumpy asphalt are just the starter, as halfway through there are two dangerous crests that will make you jump, upsetting Mila's dampers. Lifting the throttle as the wheels take flight is a must, but also having a good suspension setup will help you get through.
+
 [SESSION_0]
-NAME=Practice - 2 Laps
+NAME=Practice
 DURATION_MINUTES=12
 SPAWN_SET=PIT
 TYPE=2
