@@ -1,8 +1,8 @@
 [SERIES]
 CODE=HOTSEAT
 NAME=Reserve driver
-DESCRIPTION=A list of hotseat contracts available from the drivers market. Apply for one to expand your skills and get a sneak peek of other racing series!<br><br>Events vary from full weekends to quick replacements. Competing in here will expand your resume and place your name in the high ranks.
-REQUIRES=seriesx108
+DESCRIPTION=A list of hotseat contracts available from the drivers market. Apply for one to improve your skills and get a sneak peek of other racing series!<br><br>Events vary from full weekends to quick replacements. Competing in here will expand your resume and place your name in the high ranks.
+REQUIRES=seriesx109
 REQUIRESANY=
 POINTS=0
 
