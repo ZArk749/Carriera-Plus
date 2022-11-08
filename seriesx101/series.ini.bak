@@ -1,7 +1,7 @@
 [SERIES]
 CODE=LICENSE R
 NAME=Racing Driver License
-DESCRIPTION=The Racing Driver License grants access to regional racing competitions with vehicles with a power-to-weight ratio greater than three kg/hp.<br><br>Welcome to Aosta! My name is Leonardo Rossi, and this is the Kunos Driving Center. Here I will teach you everything you need to know in order to shine in a trackday, or even in an official competition.<br><br>Before your official graduation test, we will run some tests in order to see if you are capable of handling a vehicle in usual race conditions. Luckily, our track configuration allows to specifically test each scenario.<br><br>What else can I say? Good luck!
+DESCRIPTION=The Racing Driver License grants access to regional racing competitions with vehicles with a power-to-weight ratio greater than three kg/hp. It also grants the right to participate in championships that span across a continent.<br><br>Welcome to Aosta! My name is Leonardo Rossi, and this is the Kunos Driving Center. Here I will teach you everything you need to know in order to shine in a trackday, or even in an official competition.<br><br>Before your official graduation test, we will run some tests in order to see if you are capable of handling a vehicle in usual race conditions. Luckily, our track configuration allows to specifically test each scenario.<br><br>What else can I say? Good luck!
 REQUIRES=
 REQUIRESANY=
 POINTS=0
