@@ -1,13 +1,13 @@
 [EVENT]
 NAME=Round 9 - Misano 9/22/13
-DESCRIPTION=DESCRIPTION
+DESCRIPTION=This track, built under the direction of Enzo Ferrari himself, is full of corners you will need to face your limits: how close to flat out can you get on the end of the Curvone? Using the kerbs may help you find the answer.<br><br>Downforce and low ride height on the long corners could prove useful, but keep in mind the underbody. If you struggle yet, try to fiddle around with mechanical grip.<br><br>You can relax a bit for this race: tyre wear and  fuel consumption won't get in your way that much.
 
 [RACE]
 TRACK=rt_misano
 CONFIG_TRACK=
 MODEL=tatuusfa1
 CARS=13
-PENALTIES=1
+PENALTIES=0
 FIXED_SETUP=0
 MODEL_CONFIG=
 SKIN=scheme_4
@@ -18,7 +18,7 @@ JUMP_START_PENALTY=2
 
 [CAR_0]
 SETUP=
-SKIN=scheme_4
+SKIN=scheme_1
 MODEL=-
 MODEL_CONFIG=
 
