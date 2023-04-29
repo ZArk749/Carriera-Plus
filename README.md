@@ -1,4 +1,4 @@
-# ACICP
+# CARRIERA PLUS
 Assetto Corsa Career mod.
 
 REQUIRED DOWNLOADS (it's the same link you find on the mod page):
